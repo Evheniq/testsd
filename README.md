@@ -21,7 +21,6 @@ Welcome to the **Cinema Ticket Booking** web application! This project is design
 - **Ticket Booking**: Book tickets for a selected movie session.
 - **Mobile Ready**: Optimized for mobile devices.
 - **Dark Theme**: Switch between light and dark themes.
-- **GitHub Pages**: Deployed on GitHub Pages for easy access.
 
 ## 📋 Getting Started
 
